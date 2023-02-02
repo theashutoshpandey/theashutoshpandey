@@ -24,9 +24,9 @@ Besides coding, I like chess ♟️, listening music 🎧, watching TV shows and
 
 
 <a href="https://twitter.com/">
-  <img align="left" alt="Ashutosh's Twitter" src="https://img.icons8.com/bubbles/50/000000/twitter.png"/>
+  <img align="left" alt="Ashutosh's Twitter" src="https://img.icons8.com/color/512/twitter.png" width="40" height="40"/>
 </a>
 
 <a href="https://www.linkedin.com/">
-  <img align="left" alt="Ashutosh LinkedIn" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>
+  <img align="left" alt="Ashutosh LinkedIn" src="https://img.icons8.com/color/512/linkedin.png" width="40" height="40"/>
 </a>
