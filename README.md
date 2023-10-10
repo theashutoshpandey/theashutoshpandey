@@ -10,7 +10,6 @@ When I'm not crafting software solutions, you'll find me engaged in a few of my 
 
 - ♟️ Chess Enthusiast: Chess is not just a game; it's a mental challenge that keeps my analytical skills sharp.
 - 🎧 Music Lover: Music is my source of inspiration and relaxation. I believe it fuels creativity.
-- 🍿 Movie Buff: As a cinephile, I explore diverse genres in TV shows and movies. And yes, popcorn is a must! 🍿
 - 🏏 Cricket Enthusiast: Cricket is more than a sport; it's a passion that I follow closely. I enjoy watching and discussing the game whenever possible.
 
 <h3>My Tech Stack 🖥️</h3>
