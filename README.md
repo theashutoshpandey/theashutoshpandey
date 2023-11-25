@@ -4,7 +4,7 @@ I am <b>Ashutosh</b>. I am an optimistic, curious and well-focused developer. �
 
 Besides coding, I like chess ♟, listening music 🎧, watching TV shows and Movies 🍿,Cricket 🏏
 
-- 💻 <b>Code:</b> Java ( Core , Spring Boot , Quarkus , Swing ) , Android , Node.js
+- 💻 <b>Code:</b> Java ( Core , Spring Boot , Quarkus , Swing ) , Android , Python , Node.js
 - ☁ <b>Cloud Technologies: </b> Cloud and Devops (AWS, Docker)
 - 🖥️ <b>Operating Systems:</b> Windows , Linux
 
