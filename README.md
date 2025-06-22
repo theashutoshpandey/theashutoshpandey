@@ -52,3 +52,8 @@ Besides coding, I enjoy playing **chess ♟️**, listening to **music 🎧**, w
   <a href="mailto:pandeyashutosh771@gmail.com">email me directly</a>. 
   I'm always open to opportunities and tech conversations!
 </p>
+
+<!-- Visitor Count -->
+<p>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=theashutoshpandey.theashutoshpandey" alt="Visitor Count" />
+</p>
