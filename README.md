@@ -17,17 +17,18 @@ Besides coding, I enjoy playing **chess ♟️**, listening to **music 🎧**, w
 ---
 ### 🚀 Personal Key Projects
 
-- 🖥️ **[Desk Decibel](#Desk-Decibel):** A lightweight desktop monitoring tool that streams live video feeds securely via a browser — designed for stealth monitoring and high-efficiency use.
-- 🧩 **[LogX](#LogX):** A lightweight and extensible Java logging utility (aka Log Express) designed for clear, structured, and hassle-free log management in scalable applications.
-- 🤖 **[AutoMata Test Studio](#Automata):** Cross-platform desktop testing framework — “Learn once, execute anywhere” across Linux and Windows.
-- 📊 **[Sentiment Analyzer](#SentimentAnalyzer):** Java-based tool using Stanford CoreNLP to detect sentiment in text — positive, negative, neutral, and more.
-- 🗣️ **[ShabdaSynergy](#ShabdaSynergy):** An Offline speech-to-text solution leveraging ASR technology, optimized for speed and accuracy.
-- 🧠 **[ShabdaInsight](#ShabdaInsight):** Named Entity Recognition (NER) app built with Spring Boot that identifies people, organizations, locations, and dates in text.
-- 🎛️ **[Voice Activity Visualization App](#Voice-activity-visualization):** Visualizes real-time microphone input for easy and effective voice stream monitoring.
+- 🖥️ **[Desk Decibel](Desk-Decibel):** A lightweight desktop monitoring tool that streams live video feeds securely via a browser — designed for stealth monitoring and high-efficiency use.
+- 🧩 **[LogX](LogX):** A lightweight and extensible Java logging utility (aka Log Express) designed for clear, structured, and hassle-free log management in scalable applications.
+- 🤖 **[AutoMata Test Studio](Automata):** Cross-platform desktop testing framework — “Learn once, execute anywhere” across Linux and Windows.
+- 📊 **[Sentiment Analyzer](SentimentAnalyzer):** Java-based tool using Stanford CoreNLP to detect sentiment in text — positive, negative, neutral, and more.
+- 🗣️ **[ShabdaSynergy](ShabdaSynergy):** An Offline speech-to-text solution leveraging ASR technology, optimized for speed and accuracy.
+- 🧠 **[ShabdaInsight](ShabdaInsight):** Named Entity Recognition (NER) app built with Spring Boot that identifies people, organizations, locations, and dates in text.
+- 🎛️ **[Voice Activity Visualization App](Voice-activity-visualization):** Visualizes real-time microphone input for easy and effective voice stream monitoring.
 
 📜 *To explore more public projects, scroll down!*
 
 ---
+
 <h3>🌐 Let's Connect!</h3>
 <p>
   I'm always excited to connect with like-minded professionals and explore collaborative opportunities in the tech space.
@@ -37,16 +38,17 @@ Besides coding, I enjoy playing **chess ♟️**, listening to **music 🎧**, w
   <a href="mailto:pandeyashutosh771@gmail.com" title="Email">
     <img alt="Gmail" src="https://img.icons8.com/color/48/gmail-new.png" width="32" height="32"/>
   </a>
-  <a href="https://www.instagram.com/theashutoshpandey" target="_blank" title="Instagram">
+  <a href="https://www.instagram.com/theashutoshpandey/" target="_blank" title="Instagram">
     <img alt="Instagram" src="https://img.icons8.com/fluency/48/instagram-new.png" width="32" height="32"/>
   </a>
   <a href="https://www.linkedin.com/in/ashutosh-pandey-7b9424221/" target="_blank" title="LinkedIn">
     <img alt="LinkedIn" src="https://img.icons8.com/color/48/linkedin.png" width="32" height="32"/>
   </a>
 </div>
+
 <br>
 <p style="margin-top: 20px;">
   Feel free to connect with me on your favorite platform or 
-  <a href="#" onclick="window.location.href='mailto:' + 'pandeyashutosh771' + '@gmail.com'">email me directly</a>. 
+  <a href="mailto:pandeyashutosh771@gmail.com">email me directly</a>. 
   I'm always open to opportunities and tech conversations!
 </p>
