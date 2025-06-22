@@ -33,7 +33,7 @@ Besides coding, I enjoy playing **chess ♟️**, listening to **music 🎧**, w
   I'm always excited to connect with like-minded professionals and explore collaborative opportunities in the tech space.
 </p>
 <!-- Social Links -->
-<div style="margin-top: 10px; display: flex; gap: 12px; align-items: center; flex-wrap: wrap;">
+<div style="margin-top: 10px; display: flex; gap: 20px; align-items: center; flex-wrap: wrap;">
   <a href="mailto:pandeyashutosh771@gmail.com" title="Email">
     <img alt="Gmail" src="https://img.icons8.com/color/48/gmail-new.png" width="32" height="32"/>
   </a>
@@ -44,6 +44,7 @@ Besides coding, I enjoy playing **chess ♟️**, listening to **music 🎧**, w
     <img alt="LinkedIn" src="https://img.icons8.com/color/48/linkedin.png" width="32" height="32"/>
   </a>
 </div>
+<br>
 <p style="margin-top: 20px;">
   Feel free to connect with me on your favorite platform or 
   <a href="#" onclick="window.location.href='mailto:' + 'pandeyashutosh771' + '@gmail.com'">email me directly</a>. 
